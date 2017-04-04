@@ -1,1 +1,1 @@
-Kernel for Huawei Ascend H1611 from released source
+Kernel for AT&T Huawei Ascend XT (H1611) from released source
